@@ -5,17 +5,17 @@ class Config(object):
     # A name for users - Required (str)
     BOT_NAME_FOR_USERS = "Video Downloader bot by upekshaip"
     # Add all admin id's as a list - Required (lst[int])
-    ADMIN = [0000000000]
+    ADMIN = -https://t.me/CROWNOOBOT (1st[int] )
     # Add your telegram API ID - Required (int)
-    API_ID = 0000000
+    API_ID = ( "28604468"(int) )
     # Add your Telegram API HASH - Required (str)
-    API_HASH = ""
+    API_HASH = ("8cba8378e9ad4b4d9efeab73f2238f42")
     # Add your telegram bot token (str)
-    BOT_TOKEN = ""
+    BOT_TOKEN = ("6546281798:AAF-8wdG5h_9DF5g7h7h4Osi4hLuGo4vTpo")
     # Add telegram Log channel Id - Required (int)
-    LOGS_ID = -0000000000000
+    LOGS_ID = -https://t.me/+07xaOTwztagyYmRl(int)
     # Add main channel to subscribe - Required (int)
-    SUBSCRIBE_CHANNEL = -0000000000000
+    SUBSCRIBE_CHANNEL = -https://t.me/+07xaOTwztagyYmRl(int)
     # Add subscription channel - Required (str)
     SUBSCRIBE_CHANNEL_URL = "https://t.me/upekshaip"
 
